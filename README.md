@@ -23,6 +23,11 @@
     - 녹화된 CCTV 영상을 확인할 수 있는 서버 구축
     
     
+    
+
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=myjymX-WU90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    
 
 
 
