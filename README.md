@@ -23,7 +23,7 @@
     - 녹화된 CCTV 영상을 확인할 수 있는 서버 구축
     
     
-![My_video](https://www.youtube.com/watch?v=myjymX-WU90)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=myjymX-WU90)
 
 
 
