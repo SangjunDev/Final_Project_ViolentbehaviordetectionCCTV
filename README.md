@@ -22,8 +22,6 @@
     - SMS API를 이용한 문자 알림 기능
     - 녹화된 CCTV 영상을 확인할 수 있는 서버 구축
     
-    
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=myjymX-WU90)
 
 
 
