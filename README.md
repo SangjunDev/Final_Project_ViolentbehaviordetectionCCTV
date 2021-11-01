@@ -23,6 +23,5 @@
     - 녹화된 CCTV 영상을 확인할 수 있는 서버 구축
     
 
-
-
-
+# YOUTUBE LINK
+[![Video Label](https://user-images.githubusercontent.com/86037701/139631324-fab96ece-db76-4890-8f8b-0dd89fb52394.png)](https://www.youtube.com/watch?v=myjymX-WU90)
